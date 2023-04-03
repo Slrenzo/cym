@@ -1,5 +1,5 @@
 <?php
-const PREFIX_TO_RELATIVE_PATH = "/yellow-checkyourmood-yellow2/codeCYM";
+const PREFIX_TO_RELATIVE_PATH = "";
 require $_SERVER[ 'DOCUMENT_ROOT' ] . PREFIX_TO_RELATIVE_PATH .'/vendor/autoload.php';
 
 spl_autoload_extensions(".php");
